@@ -1,0 +1,42 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Presets/Poses/BHOBS_LH.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Esemwy",
+			"email" : "daz3d.5.smy@neverbox.com",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2015-04-18T20:02:18Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/lIndex3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/y/value",
+				"keys" : [ [ 0, -7.0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/y/value",
+				"keys" : [ [ 0, -2.5 ] ]
+			},
+			{
+				"url" : "name://@selection#CTRLlIndexBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
