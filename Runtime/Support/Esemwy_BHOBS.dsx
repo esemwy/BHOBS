@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentDBInstall VERSION="1.0">
+ <Products>
+  <Product VALUE="BHOBS">
+   <GlobalID VALUE="5c5cd5c8-abb1-4119-a915-b92af818b144"/>
+   <ProductToken VALUE="Esemwy"/>
+   <Artists>
+    <Artist VALUE="Esemwy"/>
+   </Artists>
+   <Assets>
+    <Asset VALUE="Presets/Poses/Esemwy/BHOBS/BHOBS_LH.duf">
+     <ContentType VALUE="Preset/Pose/Hand"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Hands"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+      <Compatibility VALUE="/Genesis 2/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="Presets/Poses/Esemwy/BHOBS/BHOBS_RH.duf">
+     <ContentType VALUE="Preset/Pose/Hand"/>
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default/Poses/By Region/Partial Body/Hands"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 3/Female"/>
+      <Compatibility VALUE="/Genesis 2/Female"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+   </Assets>
+   <SupportAssets VALUE="/Runtime/Support/Esemwy_BHOBS.dsx">
+    <SupportAsset VALUE="/Runtime/Support/Esemwy_BHOBS.dsa"/>
+    <SupportAsset VALUE="/Runtime/Support/Esemwy_BHOBS.jpg"/>
+   </SupportAssets>
+  </Product>
+ </Products>
+</ContentDBInstall>
